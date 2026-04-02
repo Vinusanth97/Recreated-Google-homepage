@@ -5,7 +5,7 @@ This is a simple Google homepage clone built using HTML and Tailwind CSS.
 ## 🚀 How to Run
 
 ### 1. Clone the project
-git clone https://github.com/your-username/GoogleHomePage_UsingTailwind.git
+git clone https://github.com/Vinusanth97/Recreated-Google-homepage.git
 
 ### 2. Go to project folder
 cd Recreated-Google-homepage
